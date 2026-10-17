@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Blocklogic Studio">
+  <rect width="128" height="128" rx="24" fill="#0B1220"/>
+  <rect x="16" y="16" width="96" height="96" rx="16" fill="#0F766E"/>
+  <rect x="28" y="28" width="72" height="72" rx="10" fill="#0B1220"/>
+  <path d="M48 40h16v48H48V40zm0 32h40v16H48V72z" fill="#2DD4BF"/>
+  <rect x="72" y="40" width="16" height="16" rx="3" fill="#5EEAD4"/>
+</svg>

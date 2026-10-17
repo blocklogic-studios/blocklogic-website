@@ -1,0 +1,16 @@
+{
+  "name": "Blocklogic Studio",
+  "short_name": "Blocklogic",
+  "description": "Minecraft Bedrock systems addons",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070b12",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "/assets/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ]
+}
